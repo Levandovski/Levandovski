@@ -1,1 +1,1 @@
-<strong>Bem vindo ao meu Perfil :)</strong>
+<strong style='color:blue;'>Bem vindo ao meu Perfil :)</strong>
