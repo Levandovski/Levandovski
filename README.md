@@ -1,4 +1,4 @@
-<h2><strong style='color:blue;'>Bem vindo ao meu perfil :)</strong></h2>
+<h2><strong style='color:blue;'>Welcome to my profile :)</strong></h2>
 <br>
 
 <!-- <img src='perfil.jpg'> -->
