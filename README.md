@@ -1,5 +1,7 @@
 # 💫 About Me:
-Sou um cientista da computação apaixonado por tecnologia, minhas tecnologias atuais são NodeJS e ReactJS.
+I'm a computer scientist with a passion for technology, I have 6 years of experience as a web developer, I currently work as a software developer and act as the project's Tech Lead.
+
+My current focus is the JavaScript stack (React.js/Node.js), which I keep improving.
 
 
 ## 🌐 Socials:
