@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um cientista da computação apaixonado por tecnologia, minhas tecnologias são NodeJS e ReactJS.
+Sou um cientista da computação apaixonado por tecnologia, minhas tecnologias atuais são NodeJS e ReactJS.
 
 
 ## 🌐 Socials:
